@@ -1,7 +1,7 @@
 {
-		"name": "<*****package name*****>",
-		"description": "<*****add short package description*****>",
-		"icon": "https://raw.githubusercontent.com/workerb-io/wb-github/master/src/actions/logo.png",
+		"name": "wb-dummy",
+		"description": "test description",
+		"icon": "actions/logo.png",
 		"scripts": [{
 	  "name": "get_options",
 	  "file": "get_options.js",
