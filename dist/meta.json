@@ -1,0 +1,21 @@
+{
+		"name": "<*****package name*****>",
+		"description": "<*****add short package description*****>",
+		"icon": "https://raw.githubusercontent.com/workerb-io/wb-github/master/src/actions/logo.png",
+		"scripts": [{
+	  "name": "get_options",
+	  "file": "get_options.js",
+	  "type": "action",
+	  "description": "Get initial options"
+	},{
+	  "name": "setup",
+	  "file": "setup.js",
+	  "type": "action",
+	  "description": "<Add a short meaningful description of your setup file>"
+	},{
+	  "name": "components",
+	  "file": "components",
+	  "type": "folder",
+	  "description": ""
+	}]
+	}

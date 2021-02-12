@@ -1,0 +1,21 @@
+{
+		"name": "components",
+		"description": "",
+		"icon": "https://raw.githubusercontent.com/workerb-io/wb-github/master/src/actions/logo.png",
+		"scripts": [{
+	  "name": "get_options",
+	  "file": "get_options.js",
+	  "type": "action",
+	  "description": "Add further options in component"
+	},{
+	  "name": "task",
+	  "file": "task.js",
+	  "type": "action",
+	  "description": "execute a specific task"
+	},{
+	  "name": "option",
+	  "file": "option",
+	  "type": "folder",
+	  "description": ""
+	}]
+	}

@@ -1,0 +1,11 @@
+{
+		"name": "option",
+		"description": "",
+		"icon": "https://raw.githubusercontent.com/workerb-io/wb-github/master/src/actions/logo.png",
+		"scripts": [{
+	  "name": "inner_task",
+	  "file": "inner_task.js",
+	  "type": "action",
+	  "description": "Perform an action of individual inner component"
+	}]
+	}
