@@ -1,7 +1,7 @@
 {
 		"name": "option",
 		"description": "",
-		"icon": "https://raw.githubusercontent.com/workerb-io/wb-github/master/src/actions/logo.png",
+		"icon": "icons/yt.png",
 		"scripts": [{
 	  "name": "inner_task",
 	  "file": "inner_task.js",

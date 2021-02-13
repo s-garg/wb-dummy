@@ -1,7 +1,7 @@
 {
 		"name": "wb-dummy",
 		"description": "test description",
-		"icon": "dist/icons/logo.png",
+		"icon": "icons/github.png",
 		"scripts": [{
 	  "name": "get_options",
 	  "file": "get_options.js",

@@ -1,7 +1,7 @@
 {
 		"name": "components",
 		"description": "",
-		"icon": "https://raw.githubusercontent.com/workerb-io/wb-github/master/src/actions/logo.png",
+		"icon": "icons/twtr.png",
 		"scripts": [{
 	  "name": "get_options",
 	  "file": "get_options.js",
